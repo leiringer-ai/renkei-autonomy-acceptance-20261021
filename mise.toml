@@ -1,0 +1,4 @@
+[tools]
+rust = "1.95.0"
+[tasks.test]
+run = "cargo test --locked"
